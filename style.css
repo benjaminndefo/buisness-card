@@ -1,0 +1,34 @@
+body{
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.profile-pic{
+    width: 150px;
+}
+
+
+.card{
+    /* border: dotted 5px blue ; */
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 6px #ddebf8;
+    background-color: #d8cefe;
+}
+
+
+.italics{
+    font-style: italic;
+}
+
+img{
+    margin: 20px;
+}
+
+.text{
+    text-align: center;
+}
